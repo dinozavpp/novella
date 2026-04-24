@@ -1,7 +1,7 @@
 # Instructions
 Шаг 1:
 ---
-1. Скачивание репозитория:
+1. Скачайте репозиторий:
     ```bash
     git clone https://github.com/dinozavpp/novella.git
     cd game
